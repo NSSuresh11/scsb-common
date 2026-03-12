@@ -301,8 +301,7 @@ public class PropertyKeyConstants {
         public static final String ILS_BIBDATA_API_SUPPORT_POST = "ils.bibdata.api.support.post";
         public static final String ILS_BEARER_API_KEY = "ils.bearer.api.key";
         public static final String ILS_BIB_DATA_API_UPDATE_ENDPOINT = "ils.bibdata.api.update.endpoint";
-        public static final String ILS_USE_FROM_AGENCY_ID = "ils.use.from.agency.id";
-        public static final String ILS_FROM_AGENCY_ID = "ils.from.agency.id";
+        public static final String ILS_APPLICATION_PROFILE_TYPE = "ils.application.profile.type";
 
     }
 

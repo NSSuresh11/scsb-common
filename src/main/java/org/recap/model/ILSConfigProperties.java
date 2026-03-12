@@ -243,13 +243,9 @@ public class ILSConfigProperties {
     @Expose
     public String ilsBibdataApiUpdateEndpoint;
 
-    @SerializedName(PropertyKeyConstants.ILS.ILS_USE_FROM_AGENCY_ID)
+    @SerializedName(PropertyKeyConstants.ILS.ILS_APPLICATION_PROFILE_TYPE)
     @Expose
-    public String ilsUseFromAgencyId;
-
-    @SerializedName(PropertyKeyConstants.ILS.ILS_FROM_AGENCY_ID)
-    @Expose
-    public String ilsFromAgencyId;
+    public String ilsApplicationProfileType;
 
 
 
